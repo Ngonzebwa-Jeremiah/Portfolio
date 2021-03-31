@@ -1,0 +1,26 @@
+header{
+    background-color:black;
+    color:white;
+}
+nav{
+    background-color: grey;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+.menu-item{
+    list-style:none;
+    margin-left:15px;
+}
+.menu{
+    display:flex;
+    justify-content: flex-end;
+}
+#section {
+    display:flex;
+}
+.quote {
+ width:60%;
+}
